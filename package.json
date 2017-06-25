@@ -1,0 +1,16 @@
+{
+  "name": "modulos-en-typescript",
+  "version": "1.0.0",
+  "description": "Demo de ejemplo sobre configuraión básica para trabajo con moulos en TS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "Iván Díaz",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "systemjs": "^0.20.14"
+  }
+}
